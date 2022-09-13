@@ -1,0 +1,24 @@
+
+#form {
+    background-color:gainsboro;
+    height: 100px;
+}
+
+#left{
+    margin-left: 12px;
+    background-color: #7EE5DA;
+    margin-right: 5px;
+}
+
+#center {
+    background-color: #70CCC2;
+    width: 400px;
+    margin-right: 5px;
+    
+}
+
+#right{
+    background-color:#62B3AA;
+    width: 446px;
+   
+}
